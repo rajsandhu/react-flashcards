@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.flashcard {
+  height: 300px;
+  width: 500px;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.main-image {
+  height: 100px;
+  width: 200px;
+}
